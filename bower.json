@@ -4,8 +4,9 @@
   "main": [
     "i18n.min.js"
   ],
-  "dependencies": {  
-    "gkjs-log":"~1.0"
+  "dependencies":
+   {  
+    "gkjs-log":"1.0"
   },
   "devDependencies": {},
   "moduleType": [
