@@ -174,3 +174,12 @@ jQuery(document).ready(function(){
 });
 
 
+
+// Angular Feature
+if (typeof angular != "undefined") {
+	angular.module('gkjs', []).filter('i18n', function() {
+	  return function(input) {
+	    return __(input);
+	  };
+	});
+}

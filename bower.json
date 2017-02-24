@@ -16,7 +16,8 @@
   "keywords": [
     "i18n",
     "translation", 
-    "internalization"
+    "internalization", 
+    "angular"
   ],
   "authors": [
     "Damien Cuvillier <damien@gotan.io>"
