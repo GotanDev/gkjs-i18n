@@ -6,7 +6,8 @@
   ],
   "dependencies":
    {  
-    "gkjs-log":"1.1"
+    "gkjs-log":"1.1", 
+    "gkjs-util": "1.0"
   },
   "devDependencies": {},
   "moduleType": [
